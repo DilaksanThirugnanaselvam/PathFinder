@@ -53,13 +53,17 @@ To set up and run the application locally, follow these steps:
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-## 📄 License
+## 👨‍💻 Author
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Dilaksan Thirugnanaselvam** - *AI Engineer*
 
-## 📬 Contact
+## 📫 Contact
 
-For any inquiries, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
+- **Email:** [thirudilak131@gmail.com](mailto:thirudilak131@gmail.com)
+- **LinkedIn:** [Dilaksan Thirugnanaselvam](https://www.linkedin.com/in/dilaksan-thirugnanaselvam-65641b262/)
+- **Phone:** +94-0788702104
+
+---
 
 ---
 

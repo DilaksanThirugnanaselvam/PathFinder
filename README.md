@@ -2,8 +2,8 @@
 
 Welcome to **PathfinderAI**, an AI-powered career pathway recommendation tool designed to guide users in exploring personalized career opportunities! 
 
-Uploading WhatsApp Video 2024-10-01 at 23.10.49_f01f5e21.mp4…
 
+![Screenshot 2024-10-01 233111](https://github.com/user-attachments/assets/a80403da-4367-4a3a-b1b0-3539cea184da)
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ Uploading WhatsApp Video 2024-10-01 at 23.10.49_f01f5e21.mp4…
 - **Python** 🐍
 - **Streamlit** 📊
 - **OpenAI API** 🤖
-- **Heroku** ☁️
+
 
 ## 📦 Installation
 
@@ -70,5 +70,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 🌟 Thank you for checking out PathfinderAI! I hope it helps you navigate your career journey! 🌟
 
 ```
-
-

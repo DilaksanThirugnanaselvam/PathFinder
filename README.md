@@ -1,6 +1,3 @@
-Here’s a template for an attractive **README.md** file for your **PathfinderAI** project. You can customize it with details specific to your project:
-
-```markdown
 # PathfinderAI 🌟
 
 Welcome to **PathfinderAI**, an AI-powered career pathway recommendation tool designed to guide users in exploring personalized career opportunities! 
@@ -26,8 +23,6 @@ To set up and run the application locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/pathfinderai.git
    cd pathfinderai
-   ```
-
 2. **Create a Virtual Environment:**
    ```bash
    python -m venv venv

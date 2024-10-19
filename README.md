@@ -1,6 +1,10 @@
+```markdown
 # PathfinderAI 🌟
 
-Welcome to **PathfinderAI**, an AI-powered career pathway recommendation tool designed to guide users in exploring personalized career opportunities! 
+Welcome to **PathfinderAI**, an AI-powered career pathway recommendation tool designed to guide users in exploring personalized career opportunities!
+
+![Screenshot 2024-10-01 233111](https://github.com/user-attachments/assets/9e80250c-801e-4cd5-a7cc-0b6de64a90bb)
+
 
 ## 🚀 Features
 
@@ -23,4 +27,46 @@ To set up and run the application locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/pathfinderai.git
    cd pathfinderai
+   ```
 
+2. **Create a Virtual Environment:**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+   ```
+
+3. **Install Requirements:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the App:**
+   ```bash
+   streamlit run app.py
+   ```
+
+## 📄 Usage
+
+1. Enter your skills, education, and career interests.
+2. Click on the "Get Recommendations" button.
+3. Explore personalized career pathways and opportunities!
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue.
+
+## 👨‍💻 Author
+
+- **Dilaksan Thirugnanaselvam** - *AI Engineer*
+
+## 📫 Contact
+
+- **Email:** [thirudilak131@gmail.com](mailto:thirudilak131@gmail.com)
+- **LinkedIn:** [Dilaksan Thirugnanaselvam](https://www.linkedin.com/in/dilaksan-thirugnanaselvam-65641b262/)
+- **Phone:** +94-0788702104
+
+---
+
+🌟 Thank you for checking out PathfinderAI! I hope it helps you navigate your career journey! 🌟
+
+```

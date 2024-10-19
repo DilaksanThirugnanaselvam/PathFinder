@@ -3,7 +3,8 @@
 
 Welcome to **PathfinderAI**, an AI-powered career pathway recommendation tool designed to guide users in exploring personalized career opportunities!
 
-![Screenshot 2024-10-01 233111](https://github.com/user-attachments/assets/9e80250c-801e-4cd5-a7cc-0b6de64a90bb)
+Uploading WhatsApp Video 2024-10-01 at 23.10.49_f01f5e21.mp4…
+
 
 
 ## 🚀 Features

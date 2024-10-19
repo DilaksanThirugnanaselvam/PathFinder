@@ -2,6 +2,9 @@
 
 Welcome to **PathfinderAI**, an AI-powered career pathway recommendation tool designed to guide users in exploring personalized career opportunities! 
 
+Uploading WhatsApp Video 2024-10-01 at 23.10.49_f01f5e21.mp4…
+
+
 ## 🚀 Features
 
 - **Intelligent Recommendations**: Analyze user skills, education, interests, and career goals to provide tailored pathways and opportunities.
@@ -38,10 +41,7 @@ To set up and run the application locally, follow these steps:
    ```bash
    streamlit run app.py
    ```
-
-## 🌐 Deployment
-
-The app is hosted on [Heroku](your-heroku-link), making it accessible online. 
+ 
 
 ## 📄 Usage
 
@@ -67,8 +67,4 @@ For any inquiries, please reach out to me at [your-email@example.com](mailto:you
 
 ```
 
-### Customization Tips:
 
-- Replace placeholders (like `yourusername`, `your-heroku-link`, and `your-email@example.com`) with your actual details.
-- You can add images, GIFs, or screenshots of your app to make it more visually appealing.
-- Feel free to modify sections or add new ones as needed!
